@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/zufan-ramadhan/]
 
 
 <!-- PROJECT LOGO -->
